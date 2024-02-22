@@ -1,0 +1,13 @@
+body{
+
+    background-image:url('background.jpg');
+    background-repeat:no-repeat;
+    background-size: 100%;
+    font-style: oblique;
+}
+table {                   
+    background-image:url('calcu.jpg');
+}
+button{
+    background-image:url('calc.jpg');
+}
